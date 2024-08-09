@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KW Developer</h1>
+<h1 align="center">Hi 👋, I'm KW Developer, Discord: kw.dev</h1>
 
 <p align="center" >🌱 Actualmente estoy aprendiendo **Lua** </p>
 
