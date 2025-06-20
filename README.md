@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm KW Developer, Discord: kw.dev</h1>
 
-<p align="center" >🌱 Actualmente estoy aprendiendo **Lua** </p>
-
 
 <br>
 <h3 align="center">Lenguajes:</h3>
